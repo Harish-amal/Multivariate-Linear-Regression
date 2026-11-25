@@ -21,9 +21,9 @@ Extract and display the model's calculated regression coefficients and intercept
 Pass new input values into the trained model to predict and display the estimated output.
 
 ## Program:
-#Name:Harish amal S
+#Developed by:Harish Amal S
 
-#Ref No:26014406
+#Referance Number:26014406
 
 import pandas as pd
 
