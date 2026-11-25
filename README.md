@@ -21,6 +21,10 @@ To write a python program to implement multivariate linear regression and predic
 <br>
 
 ## Program:
+#Name:Harish amal S
+
+#Ref No:26014406
+
 import pandas as pd
 
 url = "https://raw.githubusercontent.com/arunpradeep-sec/Linear-Algebra-Lab/main/carsemission.csv"
