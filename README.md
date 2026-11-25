@@ -60,7 +60,8 @@ print('Predicted CO2 for the corresponding weight and volume:', predictedCO2)
 
 ## Output:
 
-### Insert your output
+<img width="1195" height="667" alt="image" src="https://github.com/user-attachments/assets/cf7549b0-20e6-4537-9ba9-75571119df1d" />
+
 <img width="833" height="85" alt="image" src="https://github.com/user-attachments/assets/287ce6b1-ce3b-4432-ad5e-5abdbfc93cea" />
 
 
